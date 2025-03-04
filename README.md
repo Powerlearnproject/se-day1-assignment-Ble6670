@@ -136,10 +136,10 @@ Facilitates Complex Tasks – Enables AI to perform advanced functions like codi
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Example of a Vague Prompt:
-👉 "Tell me about programming."
+ "Tell me about programming."
 
 Improved Prompt:
-👉 "Explain the key programming paradigms (procedural, object-oriented, and functional) with examples and their use cases."
+"Explain the key programming paradigms (procedural, object-oriented, and functional) with examples and their use cases."
 
 Why the Improved Prompt is More Effective?
 Clarity – Specifies the focus (programming paradigms) rather than a broad topic.
